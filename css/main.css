@@ -194,7 +194,8 @@ body {
 
 /*purple header*/
 header {
-  background-color: #7D62B3;
+  background: linear-gradient(90deg,#9458C8, #E293F3);
+/*  background-color: #7D62B3;*/
 }
 
 
