@@ -12,6 +12,16 @@ body {
   margin: 0 auto;
   padding: 0 5%;
 }
+#logo{
+  border: 3px solid #fff;
+  text-transform: uppercase;
+}
+
+#logo:hover{
+ background: #fff;
+ color: purple;
+ 
+}
 
 a {
   text-decoration:none;
