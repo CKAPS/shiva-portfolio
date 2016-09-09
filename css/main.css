@@ -23,6 +23,10 @@ img {
   max-width: 100%;
 }
 
+img:hover{
+  opacity: 0.6;
+}
+
 h3 {
   margin: 0 0 1em 0;
 }
