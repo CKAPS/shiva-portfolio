@@ -19,6 +19,10 @@ a {
   
 }
 
+a.image-link{
+  border: none;
+}
+
 img {
   max-width: 100%;
 }
